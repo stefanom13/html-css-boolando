@@ -29,7 +29,7 @@
 .container-top {
   width: 1080px;
 
-  margin-left: 12px;
+  margin-left: 450px;
 }
 
 .card {
@@ -97,4 +97,8 @@
 .old {
   color: black;
   text-decoration: line-through;
+}
+
+.down {
+  margin-top: 12px;
 }
